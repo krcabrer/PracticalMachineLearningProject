@@ -1,0 +1,14 @@
+
+---
+title: Machine
+author: "Kenneth Roy Cabrera Torres"
+date: "19/11/2014"
+output: html_document
+---
+
+```{r}
+warning()
+data(cars)
+plot(cars)
+```
+
